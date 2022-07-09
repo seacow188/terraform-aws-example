@@ -1,7 +1,7 @@
 variable "ec2_instance_type" {
   type        = string
   default     = "t3.micro"
-  description = "the instance type"
+  description = "the instance type/size to use"
 }
 
 variable "ec2_instance_name" {
