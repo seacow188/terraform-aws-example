@@ -10,10 +10,10 @@ variable "ec2_instance_name" {
   description = "the name of the instance"
 }
 
-variable "number_of_instance" {
-  type        = number
-  description = "the number of the instance"
-}
+#variable "number_of_instance" {
+#  type        = number
+#  description = "the number of the instance"
+#}
 
 variable "ec2_ami_id" {
   type = string
