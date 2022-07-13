@@ -6,7 +6,7 @@ variable "ec2_instance_type" {
 
 variable "ec2_instance_name" {
   type        = string
-  default     = "HG Hello Terraform on AWS"
+  default     = "Name inside Module Terraform on AWS"
   description = "the name of the instance"
 }
 
