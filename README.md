@@ -1,5 +1,5 @@
 # My TF module
-This is my TF module example
+This is my Terraform module example
 
 ## Usage
 ~~~
