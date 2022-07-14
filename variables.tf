@@ -12,7 +12,7 @@ variable "ec2_instance_name" {
 
 variable "number_of_instance" {
   type        = number
-  default =1
+  default     = 1
   description = "the number of the instance"
 }
 
