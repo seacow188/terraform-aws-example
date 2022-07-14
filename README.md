@@ -5,7 +5,7 @@ This is my Terraform module example
 ~~~
 module "my_ec2_instance" {
   source  = "app.terraform.io/sapweaver/example/aws"
-  version = "1.0.1"
+  version = "1.0.3"
   
   ec2_instance_type  = "t3.micro"
   ec2_instance_name  = "My instance"
